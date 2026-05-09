@@ -7,5 +7,4 @@ int main() {
     cin >> age;
     cout << "Your age is: " << age << endl;
     return 0;
-    //na
 }
