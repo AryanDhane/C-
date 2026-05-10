@@ -7,8 +7,7 @@ int n = 5;
 int num=1;
 for (int i=0; i<n; i++){ // outer loop
     for (int j=0; j<i+1; j++){ // inner loop
-        cout << "*" <<" ";
-        num++;
+        cout <<(i+1) <<" ";
     }
 cout << endl;
 }
