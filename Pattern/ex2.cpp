@@ -16,3 +16,11 @@ for (int i= 0; i<n; i++){ // outer loop
 
     return 0;
 }
+
+
+// OUTPUT
+// A B C D E 
+// A B C D E 
+// A B C D E 
+// A B C D E 
+// A B C D E 

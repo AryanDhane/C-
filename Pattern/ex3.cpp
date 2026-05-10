@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-int n = 5;
+int n = 3;
 
 int num=1;
 for (int i=0; i<n; i++){ // outer loop
@@ -15,3 +15,9 @@ cout << endl;
 
     return 0;
 }
+
+
+// OUTPUT
+// * 
+// * * 
+// * * * 
