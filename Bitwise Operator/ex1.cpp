@@ -8,3 +8,6 @@ cout << "a & b = " << (a & b) << endl;
 
     return 0;
 }
+
+
+// output: a & b = 1
