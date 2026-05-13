@@ -18,3 +18,8 @@ int main(){
      cout << "Largest element is: " << largest << endl;
     return 0;
 }
+
+
+// output
+// Smallest element is: 1
+// Largest element is: 5
