@@ -2,7 +2,7 @@
 using namespace std;
 
 int main () {
-int a = 5, b = 9;
+int a = 10, b = 1;
 
 cout << "a >> b = " << (a >> b) << endl;
 
@@ -10,4 +10,4 @@ cout << "a >> b = " << (a >> b) << endl;
 }
 
 
-// output: a >> b = 0
+// output: a >> b = 5
