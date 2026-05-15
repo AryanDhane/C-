@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;    
+using namespace std;
 
 int main() {
 
@@ -10,7 +10,7 @@ int main() {
     int binary[32];   // array to store binary digits
     int i = 0;
 
-  
+    // conversion
     while(n > 0) {
         binary[i] = n % 2;   // store remainder (0 or 1)
         n = n / 2;           // reduce number
