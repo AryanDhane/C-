@@ -13,7 +13,7 @@ int main() {
     // conversion
     while(n > 0) {
         binary[i] = n % 2;   // store remainder (0 or 1)
-        n = n / 2;           // reduce number
+        n = n / 2;         
         i++;
     }
 
