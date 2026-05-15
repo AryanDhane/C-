@@ -23,5 +23,5 @@ int main() {
         cout << binary[j];
     }
 
-    // return 0;
+    return 0;
 }
