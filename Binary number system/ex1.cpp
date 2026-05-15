@@ -18,10 +18,10 @@ int main() {
     }
 
     // print in reverse order
-    // cout << "Binary: ";
-    // for(int j = i - 1; j >= 0; j--) {
-    //     cout << binary[j];
-    // }
+    cout << "Binary: ";
+    for(int j = i - 1; j >= 0; j--) {
+        cout << binary[j];
+    }
 
     return 0;
 }
