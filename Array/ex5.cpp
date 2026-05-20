@@ -25,3 +25,8 @@ int main() {
 
     return 0;
 }
+
+
+
+// Output:
+// Element found at index: 2    
