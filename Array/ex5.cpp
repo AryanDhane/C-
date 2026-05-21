@@ -29,4 +29,4 @@ int main() {
 
 
 // Output:
-// Element found at index: 2    
+// Element found at index: 2
