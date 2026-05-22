@@ -1,3 +1,6 @@
+// Bitwise AND operator example
+
+
 #include <iostream>
 using namespace std;
 
