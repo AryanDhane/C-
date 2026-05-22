@@ -1,3 +1,6 @@
+// right shift operator example
+
+
 #include <iostream>
 using namespace std;
 
