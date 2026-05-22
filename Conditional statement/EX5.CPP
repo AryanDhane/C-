@@ -11,4 +11,4 @@ int main(){
    
    cout << (n>0 ? "positive number" : "negative number") << endl;
     return 0;
-}
+}  
