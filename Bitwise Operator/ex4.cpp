@@ -1,3 +1,6 @@
+//  left operand
+
+
 #include <iostream>
 using namespace std;
 
