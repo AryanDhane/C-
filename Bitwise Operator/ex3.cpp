@@ -1,3 +1,6 @@
+// using XOR operator
+
+
 #include <iostream>
 using namespace std;
 
