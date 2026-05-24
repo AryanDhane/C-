@@ -16,7 +16,7 @@ int main(){
 
     return 0;
 }
-
+    
 
 // Output:
 // Vector elements: 10 20 30
