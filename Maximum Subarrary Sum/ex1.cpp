@@ -1,3 +1,6 @@
+// This program generates all possible subarrays of a given array and prints them.
+
+
 #include <iostream>
 using namespace std;
 
