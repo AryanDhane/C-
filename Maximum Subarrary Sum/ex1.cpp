@@ -12,8 +12,9 @@ int main(){
             for (int i=st; i<=en; i++){
                 cout << arr[i] ;
             }
-            cout << endl;
+            cout << " ";
         }
+            cout << endl;
     }
     return 0;
 
