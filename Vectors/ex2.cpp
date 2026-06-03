@@ -1,6 +1,9 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+
+int singleNumber(vector<int>& nums);
+
 int main(){
     vector<int> nums = {2, 2, 1};
     cout << singleNumber(nums) << endl;
@@ -14,3 +17,5 @@ int singleNumber(vector<int>& nums){
 
     return ans;
 }
+
+
