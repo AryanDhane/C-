@@ -31,3 +31,8 @@ int main() {
 
     return 0;
 } 
+
+
+
+// output
+// Maximum Subarray Sum = 15    
