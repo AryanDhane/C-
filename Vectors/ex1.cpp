@@ -11,8 +11,10 @@ int main(){
     vec.push_back(30);
     cout << "Vector elements: ";
     for(int i = 0; i < vec.size(); i++){
-        cout << vec[i] << " ";
-    }   
+        cout << vec[i] << " " ;
+    }  
+
+     cout << vec.size() << endl;
 
     return 0;
 }
@@ -20,3 +22,4 @@ int main(){
 
 // Output:
 // Vector elements: 10 20 30
+// Vector size: 3
